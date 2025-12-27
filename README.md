@@ -39,7 +39,7 @@ Your goal is to get the best combination of numbers and colors!
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/Console-Jackpot-Game.git](https://github.com/yourusername/Console-Jackpot-Game.git)
+    git clone [https://github.com/yigitScripts/Console-Jackpot-Game.git](https://github.com/yigitScripts/Console-Jackpot-Game.git)
     ```
 2.  **Open the project:**
     You can use Visual Studio, VS Code, or simply the terminal.
